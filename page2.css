@@ -1,0 +1,75 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+  }
+body {
+    background-color:#5D5D61;
+}
+
+div.section_header {
+    padding: 3px 6px 3px 6px;
+
+    background-color:#B105F7;
+
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 112%;
+    text-align: center;
+}
+
+div.bandeau {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+
+    background-color: #2f2f30;
+
+    text-align: center;
+    font-size: 150%;
+}
+
+img.centrée {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.jeu {
+    padding: 5px 3px ;
+    background-color:#2f2f30 ;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 125%;
+}
+
+div.page_principale {
+    position: relative;
+    display: table;
+
+    width: 800px;
+
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0px;
+
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+
+    background-color: #2f2f30;
+
+    text-align: center;
+}
